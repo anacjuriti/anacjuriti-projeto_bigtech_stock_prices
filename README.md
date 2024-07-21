@@ -66,10 +66,14 @@ Google mostra um CAGR expressivo e uma volatilidade moderada. Seu Risco Relativo
 
 
 # Dashboard 
-## Dados Gerais 
-![image]
+## Ações
+![image](https://github.com/user-attachments/assets/a3c6f6d0-dc00-448f-8fad-a497f5f3812f)
 
+## 
+![image](https://github.com/user-attachments/assets/4a3b68d1-578d-4db3-a752-72b591a9adbe)
 
+## 
+![image](https://github.com/user-attachments/assets/5f58f874-52f5-46b8-b628-bdd104445b71)
 
 
 
