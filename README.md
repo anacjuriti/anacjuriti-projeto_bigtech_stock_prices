@@ -98,8 +98,6 @@ Google mostra um CAGR expressivo e uma volatilidade moderada. Seu Risco Relativo
 
 
 ## Considerações Finais
-Desenvolvi habilidades sólidas em análise de dados, estatística e modelagem preditiva através da implementação de um projeto de xpto. Utilizando técnicas avançadas de manipulação de dados em Python, criei um modelo eficaz para avaliar o xpto, validado por métricas rigorosas.
-Esta experiência aprimorou minha capacidade de transformar dados complexos em insights acionáveis, contribuindo para decisões de investimentos financeiros informadas.
 
 🚀 Lições Aprendidas com o Projeto DataLab Stock Prices 🚀
 
